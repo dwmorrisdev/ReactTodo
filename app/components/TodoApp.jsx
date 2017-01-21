@@ -11,7 +11,7 @@ var TodoApp = React.createClass({
 				},
 				{
 					id: 2,
-					text: 'clean the yard'
+					text: 'rake the leaves'
 				},
 				{
 					id: 3,
@@ -20,6 +20,10 @@ var TodoApp = React.createClass({
 				{
 					id: 4,
 					text: 'shower and shave'
+				},
+				{
+					id: 5,
+					text: 'get dressed'
 				}
 			]
 		};
